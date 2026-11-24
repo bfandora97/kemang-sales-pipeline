@@ -1,0 +1,118 @@
+{
+  "catatan": "DATA FIKTIF untuk demo Kemang Data (kemangdata.my.id). Kopi Senja adalah usaha karangan.",
+  "diperbarui": "2026-11-24 14:57 WIB",
+  "periode": {
+    "dari": "2026-08-27",
+    "sampai": "2026-11-24",
+    "hari": 90
+  },
+  "total": {
+    "omzet": 696200000,
+    "laba": 388482860,
+    "margin_persen": 55.8
+  },
+  "per_channel": [
+    {
+      "channel": "Outlet Kemang",
+      "omzet": 308777000,
+      "laba": 186403000,
+      "margin_persen": 60.4
+    },
+    {
+      "channel": "Outlet Tebet",
+      "omzet": 210106000,
+      "laba": 126965000,
+      "margin_persen": 60.4
+    },
+    {
+      "channel": "GoFood/GrabFood",
+      "omzet": 150303000,
+      "laba": 61976400,
+      "margin_persen": 41.2
+    },
+    {
+      "channel": "Shopee",
+      "omzet": 27014000,
+      "laba": 13138460,
+      "margin_persen": 48.6
+    }
+  ],
+  "produk_terlaris": [
+    {
+      "produk": "Es Kopi Susu Senja",
+      "terjual": 8660,
+      "omzet": 190520000
+    },
+    {
+      "produk": "Kopi Aren Literan 1L",
+      "terjual": 1177,
+      "omzet": 111815000
+    },
+    {
+      "produk": "Cafe Latte",
+      "terjual": 3223,
+      "omzet": 90244000
+    },
+    {
+      "produk": "Matcha Latte",
+      "terjual": 2291,
+      "omzet": 68730000
+    },
+    {
+      "produk": "Americano",
+      "terjual": 3199,
+      "omzet": 63980000
+    }
+  ],
+  "produk_kurang_laku": [
+    {
+      "produk": "Red Velvet Latte",
+      "terjual": 325,
+      "margin_persen": 51.6
+    },
+    {
+      "produk": "Kue Lumpur Pandan",
+      "terjual": 207,
+      "margin_persen": 50.0
+    }
+  ],
+  "jam_ramai": [
+    17,
+    16,
+    18
+  ],
+  "kualitas_data": {
+    "baris_mentah": 17681,
+    "baris_dobel_dibuang": 90,
+    "nama_produk_berbeda": 31,
+    "produk_baku": 10,
+    "baris_per_sumber": {
+      "kasir_kemang": 7777,
+      "kasir_tebet": 5277,
+      "gofood": 4058,
+      "shopee": 569
+    },
+    "cek": [
+      {
+        "nama": "every product name is recognised",
+        "lulus": true
+      },
+      {
+        "nama": "revenue reconciles (clean = fact)",
+        "lulus": true
+      },
+      {
+        "nama": "no empty/negative quantities, amounts or timestamps",
+        "lulus": true
+      },
+      {
+        "nama": "every store channel has data for every day",
+        "lulus": true
+      },
+      {
+        "nama": "all dates inside the requested period",
+        "lulus": true
+      }
+    ]
+  }
+}
