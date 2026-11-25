@@ -4,7 +4,7 @@
 
 > ⚠️ **All data is fictional.** Kopi Senja is a made-up coffee shop used as a demo by [Kemang Data](https://kemangdata.my.id). No real business or personal data is used anywhere in this repository.
 
-This is the engine behind the [Kopi Senja case study](https://kemangdata.my.id/umkm-sales-dashboard.html): a coffee shop with two outlets that also sells on GoFood/GrabFood and Shopee. Every channel exports its sales in a different format, so the owner used to spend about four hours a week copying and matching spreadsheets, and still could not see the real profit per channel after app commissions.
+This is the engine behind the [Kopi Senja case study](https://kemangdata.my.id/id/umkm-sales-dashboard.html): a coffee shop with two outlets that also sells on GoFood/GrabFood and Shopee. Every channel exports its sales in a different format, so the owner used to spend about four hours a week copying and matching spreadsheets, and still could not see the real profit per channel after app commissions.
 
 ## What it does
 
