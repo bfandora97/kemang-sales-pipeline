@@ -1,47 +1,47 @@
 {
   "catatan": "DATA FIKTIF untuk demo Kemang Data (kemangdata.my.id). Kopi Senja adalah usaha karangan.",
-  "diperbarui": "2026-11-25 07:17 WIB",
+  "diperbarui": "2026-11-26 06:56 WIB",
   "periode": {
-    "dari": "2026-08-28",
-    "sampai": "2026-11-25",
+    "dari": "2026-08-29",
+    "sampai": "2026-11-26",
     "hari": 90
   },
   "total": {
-    "omzet": 696029000,
-    "laba": 388303860,
+    "omzet": 696269000,
+    "laba": 388392460,
     "margin_persen": 55.8
   },
   "per_channel": [
     {
       "channel": "Outlet Kemang",
-      "omzet": 308838000,
-      "laba": 186452000,
+      "omzet": 308129000,
+      "laba": 186067000,
       "margin_persen": 60.4
     },
     {
       "channel": "Outlet Tebet",
-      "omzet": 209446000,
-      "laba": 126569000,
+      "omzet": 209711000,
+      "laba": 126752000,
       "margin_persen": 60.4
     },
     {
       "channel": "GoFood/GrabFood",
-      "omzet": 150891000,
-      "laba": 62214800,
+      "omzet": 151315000,
+      "laba": 62398000,
       "margin_persen": 41.2
     },
     {
       "channel": "Shopee",
-      "omzet": 26854000,
-      "laba": 13068060,
-      "margin_persen": 48.7
+      "omzet": 27114000,
+      "laba": 13175460,
+      "margin_persen": 48.6
     }
   ],
   "produk_terlaris": [
     {
       "produk": "Es Kopi Susu Senja",
-      "terjual": 8654,
-      "omzet": 190388000
+      "terjual": 8666,
+      "omzet": 190652000
     },
     {
       "produk": "Kopi Aren Literan 1L",
@@ -50,25 +50,25 @@
     },
     {
       "produk": "Cafe Latte",
-      "terjual": 3235,
-      "omzet": 90580000
+      "terjual": 3246,
+      "omzet": 90888000
     },
     {
       "produk": "Matcha Latte",
-      "terjual": 2300,
-      "omzet": 69000000
+      "terjual": 2298,
+      "omzet": 68940000
     },
     {
       "produk": "Americano",
-      "terjual": 3200,
-      "omzet": 64000000
+      "terjual": 3207,
+      "omzet": 64140000
     }
   ],
   "produk_kurang_laku": [
     {
       "produk": "Red Velvet Latte",
-      "terjual": 320,
-      "margin_persen": 51.5
+      "terjual": 323,
+      "margin_persen": 51.6
     },
     {
       "produk": "Kue Lumpur Pandan",
@@ -82,14 +82,14 @@
     18
   ],
   "kualitas_data": {
-    "baris_mentah": 17684,
+    "baris_mentah": 17690,
     "baris_dobel_dibuang": 90,
     "nama_produk_berbeda": 31,
     "produk_baku": 10,
     "baris_per_sumber": {
-      "kasir_kemang": 7788,
-      "kasir_tebet": 5261,
-      "gofood": 4068,
+      "kasir_kemang": 7780,
+      "kasir_tebet": 5266,
+      "gofood": 4077,
       "shopee": 567
     },
     "cek": [
