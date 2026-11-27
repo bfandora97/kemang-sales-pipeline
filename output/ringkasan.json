@@ -1,78 +1,78 @@
 {
   "catatan": "DATA FIKTIF untuk demo Kemang Data (kemangdata.my.id). Kopi Senja adalah usaha karangan.",
-  "diperbarui": "2026-11-26 06:56 WIB",
+  "diperbarui": "2026-11-27 07:13 WIB",
   "periode": {
-    "dari": "2026-08-29",
-    "sampai": "2026-11-26",
+    "dari": "2026-08-30",
+    "sampai": "2026-11-27",
     "hari": 90
   },
   "total": {
-    "omzet": 696269000,
-    "laba": 388392460,
+    "omzet": 693846000,
+    "laba": 387118560,
     "margin_persen": 55.8
   },
   "per_channel": [
     {
       "channel": "Outlet Kemang",
-      "omzet": 308129000,
-      "laba": 186067000,
+      "omzet": 307109000,
+      "laba": 185527000,
       "margin_persen": 60.4
     },
     {
       "channel": "Outlet Tebet",
-      "omzet": 209711000,
-      "laba": 126752000,
-      "margin_persen": 60.4
+      "omzet": 208778000,
+      "laba": 126221000,
+      "margin_persen": 60.5
     },
     {
       "channel": "GoFood/GrabFood",
-      "omzet": 151315000,
-      "laba": 62398000,
+      "omzet": 150655000,
+      "laba": 62110000,
       "margin_persen": 41.2
     },
     {
       "channel": "Shopee",
-      "omzet": 27114000,
-      "laba": 13175460,
+      "omzet": 27304000,
+      "laba": 13260560,
       "margin_persen": 48.6
     }
   ],
   "produk_terlaris": [
     {
       "produk": "Es Kopi Susu Senja",
-      "terjual": 8666,
-      "omzet": 190652000
+      "terjual": 8628,
+      "omzet": 189816000
     },
     {
       "produk": "Kopi Aren Literan 1L",
-      "terjual": 1174,
-      "omzet": 111530000
+      "terjual": 1163,
+      "omzet": 110485000
     },
     {
       "produk": "Cafe Latte",
-      "terjual": 3246,
-      "omzet": 90888000
+      "terjual": 3269,
+      "omzet": 91532000
     },
     {
       "produk": "Matcha Latte",
-      "terjual": 2298,
-      "omzet": 68940000
+      "terjual": 2296,
+      "omzet": 68880000
     },
     {
       "produk": "Americano",
-      "terjual": 3207,
-      "omzet": 64140000
+      "terjual": 3199,
+      "omzet": 63980000
     }
   ],
   "produk_kurang_laku": [
     {
       "produk": "Red Velvet Latte",
-      "terjual": 323,
-      "margin_persen": 51.6
+      "terjual": 329,
+      "margin_persen": 51.4
     },
     {
       "produk": "Kue Lumpur Pandan",
-      "terjual": 210,
+      "terjual": 206,
       "margin_persen": 50.0
     }
   ],
@@ -82,15 +82,15 @@
     18
   ],
   "kualitas_data": {
-    "baris_mentah": 17690,
+    "baris_mentah": 17641,
     "baris_dobel_dibuang": 90,
     "nama_produk_berbeda": 31,
     "produk_baku": 10,
     "baris_per_sumber": {
-      "kasir_kemang": 7780,
-      "kasir_tebet": 5266,
-      "gofood": 4077,
-      "shopee": 567
+      "kasir_kemang": 7768,
+      "kasir_tebet": 5251,
+      "gofood": 4053,
+      "shopee": 569
     },
     "cek": [
       {
